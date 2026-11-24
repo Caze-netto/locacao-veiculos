@@ -2,7 +2,7 @@
 
 Projeto da disciplina **Programação com Frameworks Web**.
 
-Autor: Valdir Caze Silva Netto
+Autores: Valdir Caze Silva Netto e Bruna Edileuza Ferreira Cavalcante
 
 Sistema web para cadastro de usuários e veículos, registro de locações e devoluções.
 
